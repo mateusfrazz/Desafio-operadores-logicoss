@@ -11,4 +11,4 @@ trabalhoquinta
 Como ja se deve imaginar, essas duas variaveis foram utilizadas para buscar os valores true ou false dos dois dias e com base nisso foi usado a tabela verdade com os operadores que iriam trazer resultados conforme o usuario informasse para o programa.
 
 <h2>Objetivo</h2>
-<p>O desafio proposto foi de imenso valor para a aprendizagem doo funcionamento pratico dos operadores logicos</p>
+<p>O desafio proposto foi de imenso valor para a aprendizagem do funcionamento pratico dos operadores logicos</p>
